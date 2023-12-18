@@ -3,12 +3,14 @@ Hey hey! 🌟 I'm Naveen Varma Patsamatla, and I'm thrilled you stopped by my Gi
 # About Me 🚀
 - 🔭 Completed my Master's in Management and Information systems at Oklahoma State University
 - 🌱 Learning advanced techniques in Predictive Analytics and Statistical Analysis
-- 👯 Looking to collaborate on data-driven projects 
-
+- 👯 Looking to collaborate on data-driven projects
+- 💬 Ask me about 
+- ⚡ Fun fact 
 # 🎓 Education
 - Master of Science in Management and Information Systems
    - Oklahoma State University, Stillwater, OK
    - Overall GPA: 4.0
+   - Coursework: Predictive Analytics | Datawarehousing | python for data science | Descriptive analytics & Data visualization | Statistics for Data science 
      
 - Bachelor of Technology in Electronics and Communication Engineering
    - Amrita School of Engineering, India
@@ -18,7 +20,13 @@ Hey hey! 🌟 I'm Naveen Varma Patsamatla, and I'm thrilled you stopped by my Gi
 - Data Analysis and Programming: Python, R, SQL 
 - Cloud Computing / Data Warehousing: AWS, SSMS, SSIS
 - Data Visualization and BI Tools: Tableau 📊, PowerBI, SAS Viya, Knime
-- Others: Machine learning techniques, Statistics
+- Others: Machine learning techniques, Statistical analysis and testing
+
+# Bio
+- 📫 [naveenpatsamatla@gmail.com](naveenpatsamatla@gmail.com)
+- 📞 3472653279
+- 🔗 [https://www.linkedin.com/in/naveenvarmapatsamatla/](https://www.linkedin.com/in/naveenvarmapatsamatla/)
+
 
 <!--
 **PNaveenVarma/PNaveenVarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
