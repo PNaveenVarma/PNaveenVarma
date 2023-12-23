@@ -26,6 +26,7 @@ Hey hey! 🌟 I'm Naveen Varma Patsamatla, and I'm thrilled you stopped by my Gi
 - 📫 [naveenvarmap7666@gmail.com](naveenvarmap7666@gmail.com)
 - 📞 3472653279
 - 🔗 [https://www.linkedin.com/in/naveenvarmapatsamatla/](https://www.linkedin.com/in/naveenvarmapatsamatla/)
+- 🔗 [https://public.tableau.com/app/profile/naveen.varma.patsamatla/vizzes](https://public.tableau.com/app/profile/naveen.varma.patsamatla/vizzes)
 
 
 <!--
