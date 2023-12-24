@@ -30,6 +30,10 @@ Hey hey! I'm thrilled you stopped by my GitHub profile! Dive into my awesome dat
    - Amrita School of Engineering, India
    - Overall GPA: 7.42 /10.0
 
+
+<h3 align="left">Find my Data Visualization Work here:</h3>
+<a href="https://public.tableau.com/app/profile/naveen.varma.patsamatla/vizzes" target="blank"><img align="center" src="https://camo.githubusercontent.com/c13034cf5ce18abda1a57109359a1d8656ba197b60a4c8c2bfd9cf95ad4824ca/68747470733a2f2f63646e6c2e74626c7366742e636f6d2f73697465732f64656661756c742f66696c65732f70616765732f7461626c6561756c6f676f5f686967687265732e706e67" alt="naveenvarmapatsamatla" height="30" width="40" /></a>  
+
 # ⚙️ Technical Skills
 
 - Programming Languages:
@@ -51,8 +55,7 @@ Hey hey! I'm thrilled you stopped by my GitHub profile! Dive into my awesome dat
 - Cloud Computing / Data Warehousing: AWS, SSMS, SSIS  
 - Others: Machine learning techniques, Statistical analysis and testing
 
-<h3 align="left">Find my Data Visualization Work here:</h3>
-<a href="https://public.tableau.com/app/profile/naveen.varma.patsamatla/vizzes" target="blank"><img align="center" src="https://camo.githubusercontent.com/c13034cf5ce18abda1a57109359a1d8656ba197b60a4c8c2bfd9cf95ad4824ca/68747470733a2f2f63646e6c2e74626c7366742e636f6d2f73697465732f64656661756c742f66696c65732f70616765732f7461626c6561756c6f676f5f686967687265732e706e67" alt="naveenvarmapatsamatla" height="30" width="40" /></a>  
+
 
 
 
