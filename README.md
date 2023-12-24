@@ -5,9 +5,7 @@ Hey hey! I'm thrilled you stopped by my GitHub profile! Dive into my awesome dat
 
 📞 3472653279
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="20" width="20">
-
-![naveenvarmap7666@gmail.com](naveenvarmap7666@gmail.com)
+!<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="20" width="20">[naveenvarmap7666@gmail.com](naveenvarmap7666@gmail.com)
 
 <img src="https://png.pngtree.com/png-clipart/20220429/original/pngtree-pin-location-icon-with-folded-map-png-image_7581594.png" height="20" width="20">
 
