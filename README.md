@@ -3,12 +3,9 @@ Hey hey! I'm thrilled you stopped by my GitHub profile! Dive into my awesome dat
 
 <h3 align="left">Connect with me:</h3>
 📞 3472653279
-<p align="left">
-<a href="https://linkedin.com/in/naveenvarmapatsamatla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20"></a>
-</p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="20" width="20">[naveenvarmap7666@gmail.com](naveenvarmap7666@gmail.com)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS86ROrrqe3RvhoWkghlCWicy7JzNJLI07Ejrwn4G38Ee8ZbPa6VvANvktW5WEq603Z2o8&usqp=CAU" height="20" width="20">
-
+<img src="https://static.vecteezy.com/system/resources/previews/008/659/092/non_2x/eps10-blue-pin-point-or-location-solid-icon-for-website-ui-and-mobile-isolated-on-white-background-free-vector.jpg" height="20" width="20"> Stillwater,Oklahoma,USA
+<a href="https://linkedin.com/in/naveenvarmapatsamatla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20"></a>
 
 # Who am I  🚀
 - 🔭 🌟 I'm Naveen Varma Patsamatla, and Completed my Master's in Management and Information systems at Oklahoma State University
