@@ -31,14 +31,14 @@ Hey hey! I'm thrilled you stopped by my GitHub profile! Dive into my awesome dat
    - Overall GPA: 7.42 /10.0
 
 
-<h3 align="left">Find my Data Visualization Work here:</h3>
+# Find my Data Visualization Work here
 <a href="https://public.tableau.com/app/profile/naveen.varma.patsamatla/vizzes" target="blank"><img align="center" src="https://camo.githubusercontent.com/c13034cf5ce18abda1a57109359a1d8656ba197b60a4c8c2bfd9cf95ad4824ca/68747470733a2f2f63646e6c2e74626c7366742e636f6d2f73697465732f64656661756c742f66696c65732f70616765732f7461626c6561756c6f676f5f686967687265732e706e67" alt="naveenvarmapatsamatla" height="30" width="40" /></a>  
 
 # ⚙️ Technical Skills
 
 - Programming Languages:
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"> <img src="https://www.r-project.org/Rlogo.png" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"> <img src="https://www.r-project.org/Rlogo.png" width="30" height="30">&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30">&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"> 
   
 - Query Languages:
 
