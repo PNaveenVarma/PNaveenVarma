@@ -1,5 +1,15 @@
 👋 Hey there! welcome 👋 I'm Naveen Varma, your friendly neighborhood data geek. I'm thrilled you stopped by my GitHub profile! Dive into my awesome data-driven world 💼, where you'll find tons of cool ideas and projects crafted by me. Feel the excitement, explore around, and don't hesitate to reach out anytime! 
 
+<h3 align="left">Connect with me:</h3>
+
+📞 3472653279
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="20" width="20">  naveenvarmap7666@gmail.com
+
+<img src="https://png.pngtree.com/png-clipart/20220429/original/pngtree-pin-location-icon-with-folded-map-png-image_7581594.png" height="20" width="20">   Stillwater, Oklahoma, USA
+
+<a href="https://linkedin.com/in/naveenvarmapatsamatla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20"></a>
+
 # About me  🚀
 
 You know, the guy who dives headfirst into spreadsheets and emerges with insights that make you go, "Whoa, we had that data all along?" 📈 With around 3 years in the data trenches, I've earned my stripes as a data wrangler, software wizard, and all-around number-crunching superhero. If data were a puzzle, think of me as the one who spots the missing piece while chasing it down daily, just like I do on my daily run. All this, of course, with a cheerful soundtrack to keep the pace. 🎵😄🏃‍♂️ 
@@ -10,16 +20,6 @@ You know, the guy who dives headfirst into spreadsheets and emerges with insight
 - 🌱 Learning advanced techniques in Predictive Analytics and Statistical Analysis
 - 👯 Looking to collaborate on data-driven projects
 - 💬 Ask me about Data Preprocessing, EDA
-
-<h3 align="left">Connect with me:</h3>
-
-📞 3472653279
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="20" width="20">  naveenvarmap7666@gmail.com
-
-<img src="https://png.pngtree.com/png-clipart/20220429/original/pngtree-pin-location-icon-with-folded-map-png-image_7581594.png" height="20" width="20">   Stillwater, Oklahoma, USA
-
-<a href="https://linkedin.com/in/naveenvarmapatsamatla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20"></a>
 
   
 # 🎓 Education
