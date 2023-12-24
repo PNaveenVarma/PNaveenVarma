@@ -10,14 +10,14 @@ Hey hey! 🌟 I'm Naveen Varma Patsamatla, and I'm thrilled you stopped by my Gi
   
 # 🎓 Education
 
-- Master of Science in Management and Information Systems
-   - <img src="https://brand.okstate.edu/site-files/images/brand-guide/primary-brand.png" width="40" height="40"/>Oklahoma State University, Stillwater, OK
-   - Overall GPA: 4.0
+<img src="https://brand.okstate.edu/site-files/images/brand-guide/primary-brand.png" width="40" height="40"/> Master of Science in Management and Information Systems
+   - Oklahoma State University, Stillwater, OK
+   - Overall GPA: 4.0 / 4.0
    - Coursework: Predictive Analytics | Datawarehousing | python for data science | Descriptive analytics & Data visualization | Statistics for Data science 
      
-- Bachelor of Technology in Electronics and Communication Engineering
-   - <img src="https://upload.wikimedia.org/wikipedia/en/f/f8/Amrita-vishwa-vidyapeetham-color-logo.png" width="40" height="40"/>Amrita School of Engineering, India
-   - Overall GPA: 7.42
+<img src="https://upload.wikimedia.org/wikipedia/en/f/f8/Amrita-vishwa-vidyapeetham-color-logo.png" width="40" height="40"/> Bachelor of Technology in Electronics and Communication Engineering
+   - Amrita School of Engineering, India
+   - Overall GPA: 7.42 /10.0
 
 # ⚙️ Technical Skills
 
