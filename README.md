@@ -38,7 +38,7 @@ Hey hey! I'm thrilled you stopped by my GitHub profile! Dive into my awesome dat
 
 - Programming Languages:
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" style="margin-right: 100px;"> <img src="https://www.r-project.org/Rlogo.png" width="30" height="30" style="margin-right: 30px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30" style="margin-right: 30px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"><img src="https://www.r-project.org/Rlogo.png" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"> 
   
 - Query Languages:
 
