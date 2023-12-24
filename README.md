@@ -59,9 +59,12 @@ You know, the guy who dives headfirst into spreadsheets and emerges with insight
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"> 
 
-- Cloud Computing / Data Warehousing: AWS, SSMS, SSIS  
-- Others: Machine learning techniques, Statistical analysis and testing
+ 
+- Machine learning: Feature selection, Machine learning models(RF,ANN,DT,NB,XGboost,Gradient-Boosted,LR,Regression),testing methods(Standard,K-fold cross validation)
+  
+- Statistical analysis and testing: Inferential and Descriptive Statistics, A/B testing, ANOVA testing, F- test, Chi-square
 
+- Cloud Computing / Data Warehousing: AWS, SSMS, SSIS 
 
 
 
