@@ -31,19 +31,14 @@ Hey hey! I'm thrilled you stopped by my GitHub profile! Dive into my awesome dat
   
 - Query Languages:
 
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30">   
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30">   
 
 - Data Analytics and Visualization tools:
 
-<img src="https://camo.githubusercontent.com/c13034cf5ce18abda1a57109359a1d8656ba197b60a4c8c2bfd9cf95ad4824ca/68747470733a2f2f63646e6c2e74626c7366742e636f6d2f73697465732f64656661756c742f66696c65732f70616765732f7461626c6561756c6f676f5f686967687265732e706e67" width="50" height="30"> 
-<img src="https://www.gpsupportnorth.com/wp-content/uploads/2023/01/Microsoft-PowerBI-Logo.png" width="30" height="30">
-<img src="https://www.knime.com/images/knime-logo.svg" width="30" height="30">
-<img src="https://www.sas.com/el_gr/news/media-gallery/logos/_jcr_content/socialShareImage.img.6b78ba73b3d8495ebdd7ac7da8361765.png" width="30" height="30"> 
+<img src="https://camo.githubusercontent.com/c13034cf5ce18abda1a57109359a1d8656ba197b60a4c8c2bfd9cf95ad4824ca/68747470733a2f2f63646e6c2e74626c7366742e636f6d2f73697465732f64656661756c742f66696c65732f70616765732f7461626c6561756c6f676f5f686967687265732e706e67" width="50" height="30"> <img src="https://www.gpsupportnorth.com/wp-content/uploads/2023/01/Microsoft-PowerBI-Logo.png" width="30" height="30"> <img src="https://www.knime.com/images/knime-logo.svg" width="30" height="30"> <img src="https://www.sas.com/el_gr/news/media-gallery/logos/_jcr_content/socialShareImage.img.6b78ba73b3d8495ebdd7ac7da8361765.png" width="30" height="30"> 
   
 - Web Development tools:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"> 
 
 - Cloud Computing / Data Warehousing: AWS, SSMS, SSIS  
 - Others: Machine learning techniques, Statistical analysis and testing
