@@ -38,10 +38,10 @@ You know, the guy who dives headfirst into spreadsheets and emerges with insight
    - Overall GPA: 7.42 /10.0
 
 
-# Find my Data Visualization Work here
+# My Data Lab 🥼
 <a href="https://public.tableau.com/app/profile/naveen.varma.patsamatla/vizzes" target="blank"><img align="center" src="https://camo.githubusercontent.com/c13034cf5ce18abda1a57109359a1d8656ba197b60a4c8c2bfd9cf95ad4824ca/68747470733a2f2f63646e6c2e74626c7366742e636f6d2f73697465732f64656661756c742f66696c65732f70616765732f7461626c6561756c6f676f5f686967687265732e706e67"  height="50" width="120" /></a>  
 
-# ⚙️ Good At
+# ⚙️ Adept at
 
 - Programming Languages:
 
