@@ -1,5 +1,7 @@
-Hey hey! I'm thrilled you stopped by my GitHub profile! Dive into my awesome data-driven world 💼, where you'll find tons of cool ideas and projects crafted by me. Feel the excitement, explore around, and don't hesitate to reach out anytime!
-
+Hey! I'm thrilled you stopped by my GitHub profile! Dive into my awesome data-driven world 💼, where you'll find tons of cool ideas and projects crafted by me. Feel the excitement, explore around, and don't hesitate to reach out anytime!
+- 🌱 Learning advanced techniques in Predictive Analytics and Statistical Analysis
+- 👯 Looking to collaborate on data-driven projects
+- 💬 Ask me about Data Preprocessing, EDA
 
 <h3 align="left">Connect with me:</h3>
 
@@ -13,10 +15,6 @@ Hey hey! I'm thrilled you stopped by my GitHub profile! Dive into my awesome dat
 
 # Who am I  🚀
 - 🔭 🌟 I'm Naveen Varma Patsamatla, and Completed my Master's in Management and Information systems at Oklahoma State University
-- 🌱 Learning advanced techniques in Predictive Analytics and Statistical Analysis
-- 👯 Looking to collaborate on data-driven projects
-- 💬 Ask me about 
-- ⚡ Fun fact
 
   
 # 🎓 Education
