@@ -1,11 +1,14 @@
 Hey hey! I'm thrilled you stopped by my GitHub profile! Dive into my awesome data-driven world 💼, where you'll find tons of cool ideas and projects crafted by me. Feel the excitement, explore around, and don't hesitate to reach out anytime!
 
+
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/naveenvarmapatsamatla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveenvarmapatsamatla" height="30" width="40" /></a>
-</p>
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="30" width="40" /></a> [naveenvarmap766@gmail.com]
 📞 3472653279
+<p align="left">
+<a href="https://linkedin.com/in/naveenvarmapatsamatla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20"></a>
+</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="20" width="20">[naveenvarmap7666@gmail.com](naveenvarmap7666@gmail.com)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS86ROrrqe3RvhoWkghlCWicy7JzNJLI07Ejrwn4G38Ee8ZbPa6VvANvktW5WEq603Z2o8&usqp=CAU" height="20" width="20">
+
 
 # Who am I  🚀
 - 🔭 🌟 I'm Naveen Varma Patsamatla, and Completed my Master's in Management and Information systems at Oklahoma State University
