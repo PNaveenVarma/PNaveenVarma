@@ -1,8 +1,8 @@
 👋 Hey there! welcome 👋 I'm Naveen Varma, your friendly neighborhood data geek. I'm thrilled you stopped by my GitHub profile! Dive into my awesome data-driven world 💼, where you'll find tons of cool ideas and projects crafted by me. Feel the excitement, explore around, and don't hesitate to reach out anytime! 
 
-<h3 align="left">Connect with me:</h3>
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="300" height="300" align="right">
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="300" height="200" align="right">
+<h3 align="left">Connect with me:</h3>
 
 📞 3472653279
 
