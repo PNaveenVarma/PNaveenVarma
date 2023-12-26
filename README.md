@@ -14,8 +14,6 @@
 
 You know, the guy who dives headfirst into spreadsheets and emerges with insights that make you go, "Whoa, we had that data all along?" 📈 With around 3 years in the data trenches, I've earned my stripes as a data wrangler, software wizard, and all-around number-crunching superhero. If data were a puzzle, think of me as the one who spots the missing piece while chasing it down daily, just like I do on my daily run. All this, of course, with a cheerful soundtrack to keep the pace. 🎵😄🏃‍♂️ 
 
-🛠️ My toolkit includes Python, SQL, and enough programming languages to make your head spin (not literally, I promise). But let's not forget the serious stuff - I'm well-versed in machine learning, data structures, statistical modeling, and data visualization. I may not have superpowers, but I do have a knack for picking up new skills, so watch out for this up-and-coming data explorer!​That's right; I'm the life of the party when it comes to histograms and scatter plots. 🎉​When I'm not saving the world from data chaos, you can find me wielding a Master's degree in Management Information Systems from Oklahoma State University, with a shiny GPA of 4.0/4.0. Yes, I might have a cape for that too. 
-
 🎓✨​I've tackled databases like a pro, from MongoDB to Azure SQL Database. And when it comes to analytics, I'm your guy for everything from data mining to sentiment analysis. I can even tell you what your pet's preferences are in market basket analysis (cat owners, beware). 🐱👜
 
 - 🌱 Learning advanced techniques in Predictive Analytics and web mining
