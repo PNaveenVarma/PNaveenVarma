@@ -10,7 +10,7 @@
 
 <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="30">  naveenvarmap7666@gmail.com
 
-Hey by the way can you decode this? Hint: My name dude, Just kidding :) you can find the answer at the end.
+Hey by the way can you decode this? Hint: it's my name, Just kidding 😄 you can find the answer at the end.
 
 <img src="https://www.rd.com/wp-content/uploads/2020/10/Rebus-puzzle.png?fit=700,700" height="150" width="150"> 
 
@@ -22,7 +22,7 @@ You know, the guy who dives headfirst into spreadsheets and emerges with insight
 
 - 🌱 Learning advanced techniques in Predictive Analytics and web mining
 - 👯 Looking to collaborate on data-driven projects on sports
-- 💬 Ask me about Data Preprocessing, EDA
+- 💬 Ask me about Data Preprocessing, Riddles
 
 
 # My Data Lab 🥼
@@ -53,7 +53,8 @@ You know, the guy who dives headfirst into spreadsheets and emerges with insight
 
 - Cloud Computing / Data Warehousing: AWS, SSMS, SSIS
 
-(Answer: Green with envy)
+
+(Answer for riddle: Green with envy)
 
 
 
