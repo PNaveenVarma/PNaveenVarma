@@ -1,6 +1,6 @@
 👋 Hey there! welcome 👋 I'm Naveen Varma, your friendly neighborhood data geek. I'm thrilled you stopped by my GitHub profile! Dive into my awesome data-driven world 💼, where you'll find tons of cool ideas and projects crafted by me. Feel the excitement, explore around, and don't hesitate to reach out anytime! 
 
-<img src="https://cdn.dribbble.com/users/873771/screenshots/5839032/media/a95eabe46020bad8b19ef90c5eda97a8.gif">
+<img src="https://cdnl.iconscout.com/lottie/premium/thumb/happy-robot-say-hai-5665357-4729052.gif">
 
 <img src="https://png.pngtree.com/png-clipart/20220429/original/pngtree-pin-location-icon-with-folded-map-png-image_7581594.png" height="20" width="20">   Stillwater, Oklahoma, USA
 
