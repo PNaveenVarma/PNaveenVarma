@@ -2,6 +2,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" height="20" width="20" align="right">
 📞 3472653279
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="20" width="20">  naveenvarmap7666@gmail.com
