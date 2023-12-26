@@ -22,22 +22,6 @@ You know, the guy who dives headfirst into spreadsheets and emerges with insight
 - 👯 Looking to collaborate on data-driven projects on sports
 - 💬 Ask me about Data Preprocessing, EDA
 
-  
-# 🎓 Education
-
-<img src="https://brand.okstate.edu/site-files/images/brand-guide/primary-brand.png" width="70" height="40">
-
-- Master of Science in Management and Information Systems
-   - Oklahoma State University, Stillwater, OK
-   - Overall GPA: 4.0 / 4.0
-   - Coursework: Predictive Analytics | Datawarehousing | python for data science | Descriptive analytics & Data visualization | Statistics for Data science 
-     
-<img src="https://upload.wikimedia.org/wikipedia/en/f/f8/Amrita-vishwa-vidyapeetham-color-logo.png" width="70" height="40"> 
-
-- Bachelor of Technology in Electronics and Communication Engineering
-   - Amrita School of Engineering, India
-   - Overall GPA: 7.42 /10.0
-
 
 # My Data Lab 🥼
 <a href="https://public.tableau.com/app/profile/naveen.varma.patsamatla/vizzes" target="blank"><img align="center" src="https://camo.githubusercontent.com/c13034cf5ce18abda1a57109359a1d8656ba197b60a4c8c2bfd9cf95ad4824ca/68747470733a2f2f63646e6c2e74626c7366742e636f6d2f73697465732f64656661756c742f66696c65732f70616765732f7461626c6561756c6f676f5f686967687265732e706e67"  height="50" width="120" /></a>  
