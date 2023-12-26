@@ -17,8 +17,9 @@ You know, the guy who dives headfirst into spreadsheets and emerges with insight
 🛠️ My toolkit includes Python, SQL, and enough programming languages to make your head spin (not literally, I promise). But let's not forget the serious stuff - I'm well-versed in machine learning, data structures, statistical modeling, and data visualization. I may not have superpowers, but I do have a knack for picking up new skills, so watch out for this up-and-coming data explorer!​That's right; I'm the life of the party when it comes to histograms and scatter plots. 🎉​When I'm not saving the world from data chaos, you can find me wielding a Master's degree in Management Information Systems from Oklahoma State University, with a shiny GPA of 4.0/4.0. Yes, I might have a cape for that too. 
 
 🎓✨​I've tackled databases like a pro, from MongoDB to Azure SQL Database. And when it comes to analytics, I'm your guy for everything from data mining to sentiment analysis. I can even tell you what your pet's preferences are in market basket analysis (cat owners, beware). 🐱👜
-- 🌱 Learning advanced techniques in Predictive Analytics and Statistical Analysis
-- 👯 Looking to collaborate on data-driven projects
+
+- 🌱 Learning advanced techniques in Predictive Analytics and web mining
+- 👯 Looking to collaborate on data-driven projects on sports
 - 💬 Ask me about Data Preprocessing, EDA
 
   
