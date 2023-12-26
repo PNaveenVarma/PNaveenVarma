@@ -51,7 +51,9 @@ You know, the guy who dives headfirst into spreadsheets and emerges with insight
   
 - Statistical analysis and testing: Inferential and Descriptive Statistics, A/B testing, ANOVA testing, F- test, Chi-square
 
-- Cloud Computing / Data Warehousing: AWS, SSMS, SSIS 
+- Cloud Computing / Data Warehousing: AWS, SSMS, SSIS
+
+(Answer: Green with envy)
 
 
 
