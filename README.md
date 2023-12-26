@@ -2,11 +2,11 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="250" height="250" align="right">
 
-<h3 align="left">Connect with me:</h3>
-
 <img src="https://png.pngtree.com/png-clipart/20220429/original/pngtree-pin-location-icon-with-folded-map-png-image_7581594.png" height="20" width="20">   Stillwater, Oklahoma, USA
 
-<a href="https://linkedin.com/in/naveenvarmapatsamatla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20"></a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="20" width="20">  naveenvarmap7666@gmail.com
+<h4 align="left">Connect with me:</h4>
+
+<a href="https://linkedin.com/in/naveenvarmapatsamatla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20"></a>    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="20" width="20">  naveenvarmap7666@gmail.com
 
 # About me  🚀
 
