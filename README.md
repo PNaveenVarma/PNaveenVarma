@@ -10,7 +10,7 @@
 
 <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="30">  naveenvarmap7666@gmail.com
 
-<img src="https://www.smartbrainpuzzles.com/wp-content/uploads/2020/12/Redbus-puzzle-fb-version.jpg" height="100" width="100"> 
+<img src="https://www.rd.com/wp-content/uploads/2020/10/Rebus-puzzle.png?fit=700,700" height="100" width="100"> 
 
 # About me  🚀
 
