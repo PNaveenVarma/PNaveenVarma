@@ -1,4 +1,4 @@
-👋 Hey there! welcome 👋 I'm Naveen Varma, your friendly neighborhood data geek. I'm thrilled you stopped by my GitHub profile! Dive into my awesome data-driven world 💼, where you'll find tons of cool ideas and projects crafted by me. Feel the excitement, explore around, and don't hesitate to reach out anytime! 
+👋 Hey there! welcome, I'm Naveen Varma, your friendly neighborhood data geek. I'm thrilled you stopped by my GitHub profile! Dive into my awesome data-driven world 💼, where you'll find tons of cool ideas and projects crafted by me. Feel the excitement, explore around, and don't hesitate to reach out anytime! 
 
 <img src="https://media0.giphy.com/media/K16aUytpG7JybNAfWH/200w.gif?cid=6c09b952blvi0ihvup83ws44pg2yjz85vmua0u56csj2gx7d&ep=v1_gifs_search&rid=200w.gif&ct=s" align="right" width="200" Height="200">
 
@@ -16,9 +16,9 @@ Hey by the way can you decode this rebus puzzle? Hint: it's my name, Just kiddin
 
 # About me  🚀
 
-You know, the guy who dives headfirst into spreadsheets and emerges with insights that make you go, "Whoa, we had that data all along?" 📈 With around 3 years in the data trenches, I've earned my stripes as a data wrangler, software wizard, and all-around number-crunching superhero. If data were a puzzle, think of me as the one who spots the missing piece while chasing it down daily, just like I do on my daily run. All this, of course, with a cheerful soundtrack to keep the pace. 🎵😄🏃‍♂️ 
+You know, I'm the person who fearlessly dives into the depths of spreadsheets, surfacing with insights that'll make you go, "Land sakes alive! Unbelievable, we've been sitting on this data goldmine all this while. 📊 With a solid three years navigating the data terrain, I've not just earned my stripes as a data wrangler but also evolved into the Sherlock Holmes of missing puzzle pieces, relentlessly tracking them down.
 
-🎓✨​I've tackled databases like a pro, from MongoDB to Azure SQL Database. And when it comes to analytics, I'm your guy for everything from data mining to sentiment analysis. I can even tell you what your pet's preferences are in market basket analysis (cat owners, beware). 🐱👜
+🎓✨ I've conquered the realms of data mining and visualization with the finesse of a seasoned pro. From unraveling the intricacies of data mining to conquering the complexities of web mining, I'm your go-to analyst. Picture me as a magician 🎩✨who not only predicts what you're likely to buy through clickstream analysis but, hold your excitement, the show goes on—I can even sense your emotions using sentimental analysis.  So, whether it's deciphering data mysteries or tuning into the sentiments behind them, think of me as your analytics wizard. 🌐🕵️‍♂️✨
 
 - 🌱 Learning advanced techniques in Predictive Analytics and web mining
 - 👯 Looking to collaborate on data-driven projects on sports
@@ -26,6 +26,7 @@ You know, the guy who dives headfirst into spreadsheets and emerges with insight
 
 
 # My Data Lab 🥼
+
 <a href="https://public.tableau.com/app/profile/naveen.varma.patsamatla/vizzes" target="blank"><img align="center" src="https://camo.githubusercontent.com/c13034cf5ce18abda1a57109359a1d8656ba197b60a4c8c2bfd9cf95ad4824ca/68747470733a2f2f63646e6c2e74626c7366742e636f6d2f73697465732f64656661756c742f66696c65732f70616765732f7461626c6561756c6f676f5f686967687265732e706e67"  height="50" width="120" /></a>  
 
 # ⚙️ Adept Tool Kit
