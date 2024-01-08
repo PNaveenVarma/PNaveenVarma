@@ -59,9 +59,9 @@ You know, I'm the person who fearlessly dives into the depths of spreadsheets, s
  
 # Education
 
-Oklahoma State University
-Master of Science in Management and Information Systems
-Jan 2022 - Dec 2023
+- Oklahoma State University
+- Master of Science in Management and Information Systems
+- Jan 2022 - Dec 2023
 
 
 # Certificates
