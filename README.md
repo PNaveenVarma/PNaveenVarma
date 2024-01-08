@@ -26,10 +26,10 @@ You know, I'm the person who fearlessly dives into the depths of spreadsheets, s
 - 👯 Looking to collaborate on data-driven projects on sports
 - 💬 Ask me about Data Preprocessing, Riddles
 
-  - Data Analytics
-  - Web Analytics
-  - ETL / SQL
-  - Data Visualization 🥼
+  - [Data Analytics] ()
+  - [Web Analytics] ()
+  - [ETL / SQL] ()
+  - [Data Visualization 🥼] ()
 
 # ⚙️ Adept Tool Kit
 
