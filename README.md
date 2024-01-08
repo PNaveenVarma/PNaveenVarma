@@ -70,8 +70,8 @@ You know, I'm the person who fearlessly dives into the depths of spreadsheets, s
 
 # Certificates
 
-- [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV)
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c)
+- [Tableau](https://www.credly.com/earner/earned/badge/f7201739-fc2a-4801-a6e7-ba9983c6494d)
+- [Knime](https://www.credly.com/earner/earned/badge/f3cff541-a2a5-4a7b-ba73-61a64f84d07f)
 
 (Answer for riddle: Green with envy)
 
