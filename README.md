@@ -70,8 +70,8 @@ You know, I'm the person who fearlessly dives into the depths of spreadsheets, s
 
 # Certificates
 
-- [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
+- [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV)
+- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c)
 
 (Answer for riddle: Green with envy)
 
