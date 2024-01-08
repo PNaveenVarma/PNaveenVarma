@@ -10,6 +10,8 @@
 
 <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="30">  naveenvarmap7666@gmail.com
 
+<img src="https://cdn-icons-png.flaticon.com/512/6614/6614677.png" height="30" width="30" (https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
+
 Hey by the way can you decode this rebus puzzle? Hint: it's my name, Just kidding 😄 you can find the answer at the end.
 
 <img src="https://www.rd.com/wp-content/uploads/2020/10/Rebus-puzzle.png?fit=700,700" height="100" width="100"> 
@@ -54,20 +56,6 @@ You know, I'm the person who fearlessly dives into the depths of spreadsheets, s
 
 - Cloud Computing / Data Warehousing: AWS, SSMS, SSIS
 
-
-(Answer for riddle: Green with envy)
-
-# Tianna Parris - Data Analyst Portfolio
-## About
-Hi, I'm Tianna! I have an analytical background in Biochemistry and currently, I am on track to completing my degree in Data Science (MS. Data Science). I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
-
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
-
-In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
-
-My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
-
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
 - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
@@ -153,18 +141,18 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ## Education
-University of Colorado, Boulder: 
-Master of Science - MS, Data Science,
-Dec 2022 - Dec 2024
+Oklahoma State University
+Master of Science in Management and Information Systems
+Jan 2022 - Dec 2023
 
 
 ## Certificates
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
+ 
 - [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
 - [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
 
 
+(Answer for riddle: Green with envy)
 
 
 
