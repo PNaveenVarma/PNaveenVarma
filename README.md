@@ -28,9 +28,12 @@ You know, I'm the person who fearlessly dives into the depths of spreadsheets, s
 
   - Data Analytics
     - [Data Analytics](https://github.com/PNaveenVarma/Data-Analytics)
-  - [Web Analytics] ()
-  - [ETL / SQL] ()
-  - [Data Visualization 🥼] ()
+  - Web Analytics
+    - [Web Analytics](https://github.com/PNaveenVarma/Data-Analytics) 
+  - ETL / SQL
+    - [ETL / SQL](https://github.com/PNaveenVarma/Data-Analytics)  
+  - Data Visualization 🥼
+    - [Data Visualization](https://github.com/PNaveenVarma/Data-Analytics)  
 
 # ⚙️ Adept Tool Kit
 
