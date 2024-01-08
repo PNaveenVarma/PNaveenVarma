@@ -31,7 +31,7 @@ You know, I'm the person who fearlessly dives into the depths of spreadsheets, s
   - Web Analytics
     - [Web Analytics](https://github.com/PNaveenVarma/Web-Analytics) 
   - ETL / SQL
-    - [ETL / SQL](https://github.com/PNaveenVarma/ETL)  
+    - [ETL / SQL](https://github.com/PNaveenVarma/SQL-ETL)  
   - Data Visualization 🥼
     - [Data Visualization](https://github.com/PNaveenVarma/Data-Visualization)  
 
