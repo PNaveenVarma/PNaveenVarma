@@ -10,7 +10,7 @@
 
 <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="30">  naveenvarmap7666@gmail.com
 
-<img src="https://cdn-icons-png.flaticon.com/512/6614/6614677.png" height="30" width="30" (https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
+<img src="https://cdn-icons-png.flaticon.com/512/6614/6614677.png" height="30" width="30"> (https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
 
 Hey by the way can you decode this rebus puzzle? Hint: it's my name, Just kidding 😄 you can find the answer at the end.
 
