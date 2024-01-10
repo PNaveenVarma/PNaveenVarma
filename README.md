@@ -56,9 +56,9 @@ You know, I'm the person who fearlessly dives into the depths of spreadsheets, s
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"> 
 
  
-- Machine learning: Feature selection, Machine learning models(RF,ANN,DT,NB,XGboost,Gradient-Boosted,LR,Regression),testing methods(Standard,K-fold cross validation)
+- Machine learning: Feature selection, Machine learning models, testing methods(Standard, K-fold cross-validation)
   
-- Statistical analysis and testing: Inferential and Descriptive Statistics, A/B testing, ANOVA testing, F- test, Chi-square
+- Statistical analysis and testing: Inferential and Descriptive Statistics, A/B testing, ANOVA testing, F- test
 
 - Cloud Computing / Data Warehousing: AWS, SSMS, SSIS
 
