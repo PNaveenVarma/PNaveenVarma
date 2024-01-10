@@ -10,8 +10,6 @@
 
 <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="30">  naveenvarmap7666@gmail.com
 
-<a href="https://linkedin.com/in/naveenvarmapatsamatla" class="button"> click </a>
-
 <img src="https://cdn-icons-png.flaticon.com/512/6614/6614677.png" height="30" width="30"> [Resume](https://github.com/PNaveenVarma/Resume/blob/main/NP.pdf)
 
 Hey by the way can you decode this rebus puzzle? Hint: it's my name, Just kidding 😄 you can find the answer at the end.
