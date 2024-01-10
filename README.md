@@ -10,7 +10,7 @@
 
 <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="30">  naveenvarmap7666@gmail.com
 
-<a href="https://cdn-icons-png.flaticon.com/512/281/281769.png"  class="button"> click </a>
+<a href="https://linkedin.com/in/naveenvarmapatsamatla" class="button"> click </a>
 
 <img src="https://cdn-icons-png.flaticon.com/512/6614/6614677.png" height="30" width="30"> [Resume](https://github.com/PNaveenVarma/Resume/blob/main/NP.pdf)
 
@@ -19,10 +19,6 @@ Hey by the way can you decode this rebus puzzle? Hint: it's my name, Just kiddin
 <img src="https://www.rd.com/wp-content/uploads/2020/10/Rebus-puzzle.png?fit=700,700" height="100" width="100"> 
 
 # About me  🚀
-
-You know, I'm the person who fearlessly dives into the depths of spreadsheets, surfacing with insights that'll make you go, "Land sakes alive! Unbelievable, we've been sitting on this data goldmine all this while. 📊 With a solid three years navigating the data terrain, I've not just earned my stripes as a data wrangler but also evolved into the Sherlock Holmes of missing puzzle pieces, relentlessly tracking them down.
-
-🎓✨ I've conquered the realms of data mining and visualization with the finesse of a seasoned pro. From unraveling the intricacies of data mining to conquering the complexities of web mining, I'm your go-to analyst. Picture me as a magician 🎩✨who not only predicts what you're likely to buy through clickstream analysis but, hold your excitement, the show goes on—I can even sense your emotions using sentimental analysis.  So, whether it's deciphering data mysteries or tuning into the sentiments behind them, think of me as your analytics wizard. 🌐🕵️‍♂️✨
 
 - 🌱 Learning advanced techniques in Predictive Analytics and web mining
 - 👯 Looking to collaborate on data-driven projects on sports
