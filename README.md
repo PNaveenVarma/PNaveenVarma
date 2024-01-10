@@ -25,6 +25,8 @@ You know, I'm the person who fearlessly dives into the depths of spreadsheets, s
 - 🌱 Learning advanced techniques in Predictive Analytics and web mining
 - 👯 Looking to collaborate on data-driven projects on sports
 - 💬 Ask me about Data Preprocessing, Riddles
+  
+# 🧑‍🏭 My Projects
 
   - Data Analytics
     - [Data Analytics](https://github.com/PNaveenVarma/Data-Analytics)
