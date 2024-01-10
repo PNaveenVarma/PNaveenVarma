@@ -6,7 +6,7 @@
 
 <h4 align="left">Connect with me:</h4>
 
-<img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" height="30" width="30"> [linkedin] (https://linkedin.com/in/naveenvarmapatsamatla)
+<img src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" height="30" width="30"> [linkedin](https://www.linkedin.com/in/naveenvarmapatsamatla/)
 
 <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="30">  naveenvarmap7666@gmail.com
 
