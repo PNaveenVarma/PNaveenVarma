@@ -32,32 +32,6 @@ Hey by the way can you decode this rebus puzzle? Hint: it's my name, Just kiddin
     - [ETL / SQL](https://github.com/PNaveenVarma/SQL-ETL)  
   - Data Visualization 🥼
     - [Data Visualization](https://github.com/PNaveenVarma/Data-Visualization)  
-
-# ⚙️ Adept Tool Kit
-
-- Programming Languages:
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"><img src="https://www.r-project.org/Rlogo.png" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"> 
-  
-- Query Languages:
-
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30">   
-
-- Data Analytics and Visualization tools:
-
-<img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" width="50" height="30"> <img src="https://www.gpsupportnorth.com/wp-content/uploads/2023/01/Microsoft-PowerBI-Logo.png" width="30" height="30"> <img src="https://www.knime.com/images/knime-logo.svg" width="30" height="30"> <img src="https://www.sas.com/el_gr/news/media-gallery/logos/_jcr_content/socialShareImage.img.6b78ba73b3d8495ebdd7ac7da8361765.png" width="30" height="30"> 
-  
-- Web Development tools:
-  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"> 
-
- 
-- Machine learning: Feature selection, Machine learning models, testing methods(Standard, K-fold cross-validation)
-  
-- Statistical analysis and testing: Inferential and Descriptive Statistics, A/B testing, ANOVA testing, F- test
-
-- Cloud Computing / Data Warehousing: AWS, SSMS, SSIS
-
  
 # Education
 
