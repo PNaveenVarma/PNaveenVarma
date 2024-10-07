@@ -6,9 +6,9 @@
 
 <h4 align="left">Connect with me:</h4>
 
-<img src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" height="30" width="30"> [LinkedIn](https://www.linkedin.com/in/naveenvarmapatsamatla/)
+<img src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" height="30" width="30"> [LinkedIn](https://www.linkedin.com/in/pnaveen/)
 
-<img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="30">  naveenvarmap7666@gmail.com
+<img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="30">  naveenpatsamatla@gmail.com
 
 <img src="https://cdn-icons-png.flaticon.com/512/6614/6614677.png" height="30" width="30"> [Resume](https://github.com/PNaveenVarma/Resume/blob/main/NP.pdf)
 
@@ -37,13 +37,6 @@ Hey by the way can you decode this rebus puzzle? Hint: it's my name, Just kiddin
 
 - Oklahoma State University
 - Master of Science in Management and Information Systems
-- Jan 2022 - Dec 2023
-
-
-# Certificates
-
-- [Tableau](https://www.credly.com/earner/earned/badge/f7201739-fc2a-4801-a6e7-ba9983c6494d)
-- [Knime](https://www.credly.com/earner/earned/badge/f3cff541-a2a5-4a7b-ba73-61a64f84d07f)
 
 (Answer for riddle: Green with envy)
 
